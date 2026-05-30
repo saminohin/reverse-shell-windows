@@ -1,3 +1,7 @@
+'REM version 1.0 
+'Author Name Hacker01
+'windows version: 10 and 11 
+
 Option Explicit
 
 Dim strHost, intPort
