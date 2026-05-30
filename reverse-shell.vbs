@@ -2,10 +2,10 @@ Option Explicit
 
 Dim strHost, intPort
 ' your device ip address goes here 
-strHost = " 192.168.33.123"
+strHost = " 192.168.33.123" ' example ip address 
 
 ' put a port number for example: 4444 
-intPort =  4444
+intPort =  4444 ' example port 
 
 Dim objShell
 Set objShell = CreateObject("WScript.Shell")
